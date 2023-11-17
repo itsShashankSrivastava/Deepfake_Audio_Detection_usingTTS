@@ -1,0 +1,5 @@
+deepfake voice detection
+
+step1 - Run the file DeepFakeAudioDetector.py to check for any errors
+
+step2 - Then in the command window specify the folder where DeepFakeAudioDetector.py file is located,then type - streamlit run DeepFakeAudioDetector.py
